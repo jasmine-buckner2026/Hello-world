@@ -13,5 +13,15 @@ This was created to test my GitHub skills and practice.
 
 ## Project Title
 
-*Hello World Sample
+*Hello World Sample - My first repository*
+
+## Description  
+
+## Tools Used  
+
+## Files Used  
+
+## How to Run Program  
+
+## Additional Information  
    
