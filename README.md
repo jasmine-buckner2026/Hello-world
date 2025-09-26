@@ -24,8 +24,8 @@ Examples of tools used could be **Python, Excel, Power BI, websites, etc.**
 ## Files Used  
 
 ## How to Run Program  
-Running a program depends on the software you are using. I am most experienced in Python, but I am still a beginner in it. I currently use Spyder, it is really easy to use and I like it alot. I enjoy being able to check my code easily as I am writing it. This does not explain how to run a program. I just wanted a paragraph here. 
+Running a program depends on the software you are using. I am most experienced in Python, but I am still a beginner in it. I currently use Spyder, it is really easy to use and I like it alot. I enjoy being able to check my code easily as I am writing it. This does not explain how to run a program. ~I just wanted a paragraph here.~ 
 
 ## Additional Information  
-**This was to help us understand the structure, markdown technique, etc.** 
+***This was to help us understand the structure, markdown technique, etc.*** 
    
