@@ -19,7 +19,7 @@ This was created to test my GitHub skills and practice what I learned.
 Practicing GitHub by creating my first repository. Testing out different functions and seeing how the results look. When doing this for real projects, make sure I add multiple paragraphs explaining what was done, what was accomplished, the outcomes, results, etc. 
 
 ## Tools Used  
-Examples of tools used could be **Python, Excel, Power BI, websites, etc.**   
+Examples of *tools* used could be **Python, Excel, Power BI, websites, etc.**   
 
 ## Files Used  
 
